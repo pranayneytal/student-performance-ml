@@ -54,6 +54,15 @@ Decision Tree performed better, indicating non-linear relationships between feat
 
 ---
 
+## Results
+
+- Logistic Regression achieved an accuracy of **~62%** on the test dataset.
+- Decision Tree classifier improved accuracy to **~72%**, capturing non-linear relationships between features.
+- Models were evaluated using accuracy scores and confusion matrices.
+- The results indicate that tree-based models are better suited for this dataset.
+
+---
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
