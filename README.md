@@ -50,12 +50,7 @@ Student performance dataset containing:
 | Logistic Regression | ~62% |
 | Decision Tree | **~72%** |
 
-Decision Tree performed better, indicating non-linear relationships between features and student performance.
-
----
-
-## Results
-
+- Decision Tree performed better, indicating non-linear relationships between features and student performance.
 - Logistic Regression achieved an accuracy of **~62%** on the test dataset.
 - Decision Tree classifier improved accuracy to **~72%**, capturing non-linear relationships between features.
 - Models were evaluated using accuracy scores and confusion matrices.
